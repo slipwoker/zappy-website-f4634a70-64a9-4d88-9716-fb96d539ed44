@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://example.com
+https://houston-aim-limousine.zappy5.app
 Experience elite luxury chauffeur service in Houston tailored for executives and special occasions. Book premium executive cars with professional chauffeurs today and travel beyond expectations.
 
 ### Services
-https://example.com/services
+https://houston-aim-limousine.zappy5.app/services
 Browse our distinguished fleet and transparent chauffeur service cost options. From luxury executive cars to stretch limousines, find your perfect Houston ride and reserve with confidence.
 
 ### About
-https://example.com/about
+https://houston-aim-limousine.zappy5.app/about
 Discover the passion behind Houston Aim Limousine. Our luxury chauffeur service is built on punctuality, discretion, and immaculate executive cars that turn every transfer into a first-class journey.
 
 ### Contact
-https://example.com/contact
+https://houston-aim-limousine.zappy5.app/contact
 Ready to book Houston&#39;s most refined transportation? Inquire about chauffeur service cost, check availability, or customize your itinerary. Reach out now and let us elevate your next ride.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://houston-aim-limousine.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://houston-aim-limousine.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://houston-aim-limousine.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://houston-aim-limousine.zappy5.app/contact
+- Endpoint: https://houston-aim-limousine.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Transportation & Luxury Car Service
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://houston-aim-limousine.zappy5.app/sitemap.xml
+- Robots: https://houston-aim-limousine.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://houston-aim-limousine.zappy5.app/llms-full.txt
